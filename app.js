@@ -31,3 +31,4 @@ const changeColor=(colorPlate, colorValue)=>{
 }
 window.addEventListener('DOMContentLoaded', generateColor)
 refreshBtn.addEventListener('click', generateColor)
+console.log(changeColor);
